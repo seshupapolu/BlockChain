@@ -13,6 +13,8 @@ namespace TestBlockChain
             Console.WriteLine("hello");
 
             Console.WriteLine("Abc");
+
+            Console.WriteLine("etst");
         }
     }
 }
