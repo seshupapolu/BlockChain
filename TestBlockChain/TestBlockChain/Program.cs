@@ -11,6 +11,8 @@ namespace TestBlockChain
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+
+            Console.WriteLine("Abc");
         }
     }
 }
